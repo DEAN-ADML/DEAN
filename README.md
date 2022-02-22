@@ -10,3 +10,5 @@ hyper.json allows to modify the hyperparameters of our model. representation nee
 
 
 In "reason" our interpretability method is applied to each MNIST test sample.
+
+To use the files provided you need to install git-lfs ( https://git-lfs.github.com/ )
